@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Sample
-=======
 Sample Update
->>>>>>> branch-name
